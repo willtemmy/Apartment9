@@ -14,4 +14,3 @@ Lease.create(rent: 1200, apartment_id: 2, tenant_id: 2)
 Lease.create(rent: 900, apartment_id: 3, tenant_id: 3)
 
 puts "done"
-
